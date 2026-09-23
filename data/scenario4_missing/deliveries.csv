@@ -1,0 +1,6 @@
+order_id,supplier_id,supplier_name,expected_delivery,actual_delivery,delay_days,quantity_ordered,quantity_received,status,defect_rate_pct
+ORD-2024-S001,S001,Meridian Components Ltd,2024-11-15,2024-11-15,0,932,,On Time,1.67
+ORD-2024-S002,S002,AsiaFlex Manufacturing,2024-11-15,2024-11-15,0,1661,,On Time,1.61
+ORD-2024-S003,S003,Nordic Raw Materials,2024-11-15,,0,1144,,,0.62
+ORD-2024-S004,S004,Balkan Precision Works,2024-11-15,2024-11-15,0,1522,,On Time,
+ORD-2024-S005,S005,Gulf Logistics Partners,2024-11-15,2024-11-15,0,1816,,On Time,0.99

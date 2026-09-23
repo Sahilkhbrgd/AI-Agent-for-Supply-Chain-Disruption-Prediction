@@ -1,0 +1,6 @@
+supplier_id,name,country,category,lead_time_days,reliability
+S001,Meridian Components Ltd,Germany,Electronic Parts,14,0.95
+S002,AsiaFlex Manufacturing,China,Mechanical Parts,21,0.88
+S003,Nordic Raw Materials,Sweden,Raw Materials,10,0.97
+S004,Balkan Precision Works,Serbia,Electronic Parts,18,0.82
+S005,Gulf Logistics Partners,UAE,Logistics,7,0.91

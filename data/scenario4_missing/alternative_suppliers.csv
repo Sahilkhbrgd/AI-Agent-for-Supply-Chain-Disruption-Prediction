@@ -1,0 +1,4 @@
+supplier_id,name,country,category,lead_time_days,capacity_pct,reliability
+A001,EuroCircuit Backup,Poland,Electronic Parts,16,80,0.89
+A002,Pacific Mfg Co,Vietnam,Mechanical Parts,25,65,0.84
+A003,Alpine Raw Supplies,Austria,Raw Materials,12,90,0.93

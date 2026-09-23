@@ -1,0 +1,6 @@
+supplier_id,on_time_delivery_pct,avg_delay_days,defect_rate_pct,communication_score,risk_flag
+S001,95.0,1.7,0.56,9.2,Normal
+S002,54.0,18.0,1.9,4.5,HIGH RISK
+S003,97.0,1.8,1.14,9.1,Normal
+S004,82.0,2.2,1.46,8.0,Normal
+S005,59.0,16.0,1.1,4.8,HIGH RISK

@@ -1,0 +1,3 @@
+event_id,event_type,region,country,severity,description,date_reported,source
+EVT-001,Port Closure,East Asia,China,HIGH,Shanghai container port closed — Typhoon Megi. Estimated 3-4 week outbound cargo disruption.,2024-11-01,Reuters/Port Authority
+EVT-002,Logistics Disruption,Middle East,UAE,MEDIUM,Regional fuel shortage reducing freight carrier capacity by 25-30%.,2024-11-03,Lloyd's List Intelligence
